@@ -8,6 +8,7 @@ int  main(void){
 
     const double PI = 3.141519;
 
+    printf("Welcome to the circle calculator");
     printf("Enter the radius: ");
     scanf("%lf",&radius);
 
