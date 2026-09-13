@@ -7,7 +7,7 @@ int  main(void){
     int timesCompounded = 1;
     double total = 0.0;
 
-    printf("//Compound Interest Calculator//: \n");
+    printf("///Compound Interest Calculator///: \n");
 
     printf("Enter the principal: ");
     scanf("%lf",&principal);
