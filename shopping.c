@@ -10,7 +10,7 @@ int  main(void)
     int quantity = 0;
     char currency = '$';
     float total = 0.0f;
-
+    printf("///WELCOME TO OUR SHOP///");
     printf("What item would you like to buy?: ");
     fgets(item, sizeof(item), stdin);
     item[strlen(item) - 1] = '\0';
